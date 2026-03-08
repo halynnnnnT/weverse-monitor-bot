@@ -11,7 +11,9 @@
 - 傳送「列表」可查看目前所有追蹤中的商品與狀態
 
 ### 架構
+```
 linebot-monitor/
 ├── linebot_monitor.py   # 主程式
 ├── get_line_id.py       # 取得 LINE 群組 ID 工具
 ├── requirements.txt     # 套件清單
+```
